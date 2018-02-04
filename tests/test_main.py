@@ -18,7 +18,7 @@ class TestMainBlueprint(BaseTestCase):
     def test_footer(self):
         response = self.client.get('/', follow_redirects=True)
         self.assertEqual(response.status_code, 200)
-        self.assertIn(b'GitLab Demo', response.data)
+        self.assertIn(b'Docker Cloud Demo', response.data)
 
     def test_about(self):
         # Ensure about route behaves correctly.
