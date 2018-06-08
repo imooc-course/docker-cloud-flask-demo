@@ -1,4 +1,4 @@
-# Flask Skeleton - Docker Cloud Demo
+# Flask Skeleton - 
 
 Flask starter project... https://cloud.docker.com
 
