@@ -1,6 +1,6 @@
 # Flask Skeleton - 
 
-Flask starter project... https://cloud.docker.com
+Flask starter project... 
 
 ## Quick Start
 
